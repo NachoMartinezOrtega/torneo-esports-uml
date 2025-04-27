@@ -14,7 +14,8 @@ Este proyecto tiene como objetivo crear un sistema que permita gestionar torneos
 A través del modelado con diagramas UML, se representan las funcionalidades principales como la gestión de equipos, la administración de torneos y el registro de jugadores.  
 Se pretende facilitar la organización de competiciones para que los jugadores puedan disfrutar rápidamente de la experiencia sin complicaciones.
 
-> **Repositorio del proyecto:** [AD-3.-Tarea-UML](https://github.com/NachoMartinezOrtega/AD-3.-Tarea-UML)
+> **Repositorio del proyecto:** [torneo-esports-uml
+](https://github.com/NachoMartinezOrtega/AD-3.-Tarea-UML)
 
 ---
 
