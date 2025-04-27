@@ -42,7 +42,7 @@ Antes de diseñar el sistema, se analizaron las principales necesidades para un 
 
 En el siguiente diagrama se muestran las acciones principales de los actores del sistema y cómo interactúan:
 
-![Diagrama de Casos de Uso](./Diagramas/Diagrama1.drawio.png)
+![Diagrama de Casos de Uso](./Diagrams/UseCase.drawio.png)
 
 ---
 
@@ -50,7 +50,7 @@ En el siguiente diagrama se muestran las acciones principales de los actores del
 
 El siguiente diagrama representa la estructura básica de las clases, sus atributos y las relaciones entre ellas:
 
-![Diagrama de Clases](./Diagramas/Diagrama2dia.png)
+![Diagrama de Clases](./Diagrams/clases.dia.png)
 
 ---
 
